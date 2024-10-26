@@ -35,7 +35,6 @@ If you manually switch to a different parent and actually want the inheritance, 
 -------------------------------------------------------------------------------------------------------------------------------------
 ### Configuration VS Code
 
-`
 {
     "configurations": [
         {
@@ -61,4 +60,4 @@ If you manually switch to a different parent and actually want the inheritance, 
         }
     ]
 }
-`
+    
